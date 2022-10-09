@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Junior at St. Lawrence University in Canton, NY. I am majoring in Statistics and minoring in Public Health.
+I am a Senior at St. Lawrence University in Canton, NY. I am majoring in Statistics and minoring in Public Health.
 
-I am currently learning how to use GitHub in my Data Visualization class :) 
+I am currently learning how to use GitHub in my Biostatistics class!
 
 <!--
 **tdmeye19/tdmeye19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
